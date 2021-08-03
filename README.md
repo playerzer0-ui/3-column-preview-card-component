@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://github.com/playerzer0-ui/3-column-preview-card-component
 - Live Site URL: https://playerzer0-ui.github.io/3-column-preview-card-component/
 
 ## My process
